@@ -13,6 +13,9 @@ import {
 import 'antd/dist/antd.css';
 //import { Pagination } from 'antd'
 
+//ReactDOM.render(<Pagination defaultCurrent={6} total={500} />, mountNode);
+
+
 const API_KEY = '90b56bba';
 const { Header, Content, Footer } = Layout;
 const { Search } = Input;
