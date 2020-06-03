@@ -21,7 +21,7 @@ To develop a simple app that you can search movies titles, years and genres.
 * Tags (if movie, series, etc)
 * Only view 5 titles at a time and then next page. (had a hard time to code that)
 
-## ** Challenages**
+## **Challenges**
 This technical challenage was fun and difficult. I have never worked on a RESTful API all by myself so I had to do some research. I stumbled upon a Ant Design which is a design system for react. I know I needed it to look nice to the eyes and wanted to made a grid-like table view. I realized that I had to fetch the titles and posters. It required me to look at some youtube videos and stackoverflow questions poeple asked to finally realized how to implement it. Although this took a few hours, I believe I can do more!
 
 ## ** Front**
